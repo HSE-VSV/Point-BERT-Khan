@@ -1,0 +1,3 @@
+#!/bin/bash
+curl -L -o ~/data/ModelNet/modelnet40_normal_resampled/modelnet40_train_8192pts_fps.dat https://cloud.tsinghua.edu.cn/seafhttp/files/a2f2c3bb-9938-411a-bf44-353cff330fbc/modelnet40_train_8192pts_fps.dat
+curl -L -o ~/data/ModelNet/modelnet40_normal_resampled/modelnet40_test_8192pts_fps.dat https://cloud.tsinghua.edu.cn/seafhttp/files/55a24a02-2a36-4df3-ac44-612fd01e1ac2/modelnet40_test_8192pts_fps.dat
